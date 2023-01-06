@@ -1,0 +1,22 @@
+id: ABE860486
+title: Guru Padmasambhava, Master of the Land of Snows
+type: translation
+pechas:
+- IF4E11B23
+- I1F6FB77F
+- IAA1A6AA6
+source_metadata:
+  languages:
+  - en
+  - zh
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 11:55:38.617484
+  last_modified_at: 2023-01-04 11:55:38.617498
+  collections:
+  - Fourth Dodrupchen Rinpoche, Jalü Dorje
+  - Works of Tibetan Masters
+alignment_to_base:
+  IF4E11B23/E3EA: '9051'
+  I1F6FB77F/B61E: '9051'
+  IAA1A6AA6/B0B5: '9051'
